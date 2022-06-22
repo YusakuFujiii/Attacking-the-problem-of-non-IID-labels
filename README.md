@@ -1,4 +1,4 @@
-# Attacking the problems of non-IID labels
+# Attacking the problem of non-IID labels
 
 
 
